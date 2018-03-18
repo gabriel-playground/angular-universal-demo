@@ -1,0 +1,5 @@
+<div class="row">
+  <div *ngFor="let dog of dogList" class="col col-3 text-center box">
+    <a [routerLink]="['/details', dog]">{{ dog | titlecase }}</a>
+  </div>
+</div>

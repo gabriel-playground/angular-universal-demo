@@ -1,0 +1,38 @@
+// COLOR
+$colors: (
+  c-blue: #007bff,
+  c-indigo: #6610f2,
+  c-purple: #6f42c1,
+  c-pink: #e83e8c,
+  c-red: #dc3545,
+  c-orange: #fd7e14,
+  c-yellow: #ffc107,
+  c-green: #28a745,
+  c-teal: #20c997,
+  c-cyan: #17a2b8,
+  c-white: #fff,
+  c-gray: #868e96,
+  c-gray-dark: #343a40,
+
+  light: #f8f9fa,
+  dark: rgb(16, 16, 18),
+
+  primary: #007bff,
+  secondary: #868e96,
+  success: #28a745,
+  info: #17a2b8,
+  warning: #ffc107,
+  danger: #dc3545,
+
+  border-color: #d8dbdd
+);
+
+// UNITS
+$units: (
+  border-radius: 4px,
+  spacing: 16px,
+  body-size: 13px,
+  heading-size: 18px
+);
+
+
